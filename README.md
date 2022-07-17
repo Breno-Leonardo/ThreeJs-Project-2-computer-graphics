@@ -1,6 +1,8 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7985138&assignment_repo_type=AssignmentRepo)
 # Atividade 02 - Breno Leonardo
 
+**PARA FUNCIONAR CORRETAMENTE DESCOMPACTE O room.zip NO PATH Assets/Models/OBJ/room**
+
 De modelo de arquitetura eu escolhi uma cabana.
 
 Escolhi fazer com bunny e teapot, apliquei uma textura neles para ficar similar a porcelana, posicionei sobre a mesa, configurei uma luz fora do cenário (na janela), configurei as sombras.
@@ -18,9 +20,6 @@ Esse foi o resultado:
 
 
 O carregamento demora um pouco pelo modelo ser mais de 100MB.
-
-O ARQUIVO room.obj PODE ESTAR CORROMPIDO FAZENDO COM QUE O MODELO NÃO CARREGUE, PARA RESOLVER ISTO BASTA DESCOMPACTAR O room.zip NO PATH Assets/Models/OBJ/room
-
 
 # Atividade 02 - Renderização
 
